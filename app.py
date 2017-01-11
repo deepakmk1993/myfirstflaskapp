@@ -7,7 +7,7 @@ def index():
     return """
     <!DOCTYPE html>
     <head>
-       <title>My First Flask Application</title>
+       <title>Flask Application</title>
     </head>
     <body>
         <h1>My First Flask Application</h1>
